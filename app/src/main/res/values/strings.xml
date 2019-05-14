@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task1</string>
+    
+    <string name="toast">toast</string>
+    <string name="dialog">dialog</string>
+    <string name="color">color</string>
+</resources>
